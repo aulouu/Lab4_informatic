@@ -1,0 +1,76 @@
+{
+    "root":
+    {
+        "rows": [
+        {
+            "col1": "<xxxxx>\u0412\u0442</xxxxx>",
+            "col2": "<span>08:20-09:50</span> <div>5</div> <dd class=\"\"rasp_aud_mobile\"\"></dd> <dt class=\"\"rasp_corp_mobile\"\"><i class=\"\"fa fa-map-marker\"\"></i><span></span></dt>",
+            "col3": "<dl> <dd></dd> <dt><i class=\"\"fa fa-map-marker\"\"></i><span></span></dt> </dl>",
+            "col4": "<dl> <dd>\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0430(\u041b\u0435\u043a): ZOOM</dd><dt><b> \u0411\u0430\u043b\u0430\u043a\u0448\u0438\u043d \u041f\u0430\u0432\u0435\u043b \u0412\u0430\u043b\u0435\u0440\u044c\u0435\u0432\u0438\u0447 </b></dt> </dl>",
+            "col5": "\u0414\u0438\u0441\u0442\u0430\u043d\u0446\u0438\u043e\u043d\u043d\u044b\u0439"
+        },
+        {
+            "col1": null,
+            "col2": "<span>08:20-09:50</span> <div>2, 4, 6, 8, 10, 12, 14, 16</div> <dd class=\"\"rasp_aud_mobile\"\">2308 (\u0431\u044b\u0432\u0448. 306) \u0430\u0443\u0434.</dd> <dt class=\"\"rasp_corp_mobile\"\"><i class=\"\"fa fa-map-marker\"\"></i><span>\u041a\u0440\u043e\u043d\u0432\u0435\u0440\u043a\u0441\u043a\u0438\u0439 \u043f\u0440., \u0434.49, \u043b\u0438\u0442.\u0410</span></dt>",
+            "col3": "<dl> <dd>2308 (\u0431\u044b\u0432\u0448. 306) \u0430\u0443\u0434.</dd> <dt><i class=\"\"fa fa-map-marker\"\"></i><span>\u041a\u0440\u043e\u043d\u0432\u0435\u0440\u043a\u0441\u043a\u0438\u0439 \u043f\u0440., \u0434.49, \u043b\u0438\u0442.\u0410</span></dt> </dl>",
+            "col4": "<dl> <dd>\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0430(\u041b\u0430\u0431)</dd>\u0447\u0435\u0442\u043d\u0430\u044f \u043d\u0435\u0434\u0435\u043b\u044f<dt><b> \u041c\u0430\u0448\u0438\u043d\u0430 \u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u043d\u0430 </b></dt> </dl>",
+            "col5": "\u041e\u0447\u043d\u043e - \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0438\u043e\u043d\u043d\u044b\u0439"
+        },
+        {
+            "col1": null,
+            "col2": "<span>08:20-09:50</span> <div>3, 7, 9, 11, 13, 15, 17</div> <dd class=\"\"rasp_aud_mobile\"\"></dd> <dt class=\"\"rasp_corp_mobile\"\"><i class=\"\"fa fa-map-marker\"\"></i><span>\u0443\u043b.\u041b\u043e\u043c\u043e\u043d\u043e\u0441\u043e\u0432\u0430, \u0434.9, \u043b\u0438\u0442. \u041c</span></dt>",
+            "col3": "<dl> <dd></dd> <dt><i class=\"\"fa fa-map-marker\"\"></i><span>\u0443\u043b.\u041b\u043e\u043c\u043e\u043d\u043e\u0441\u043e\u0432\u0430, \u0434.9, \u043b\u0438\u0442. \u041c</span></dt> </dl>",
+            "col4": "<dl> <dd>\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0430(\u041b\u0435\u043a): \u0410\u043a\u0442\u043e\u0432\u044b\u0439 \u0437\u0430\u043b</dd><dt><b> \u0411\u0430\u043b\u0430\u043a\u0448\u0438\u043d \u041f\u0430\u0432\u0435\u043b \u0412\u0430\u043b\u0435\u0440\u044c\u0435\u0432\u0438\u0447 </b></dt> </dl>",
+            "col5": "\u041e\u0447\u043d\u043e - \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0438\u043e\u043d\u043d\u044b\u0439"
+        },
+        {
+            "col1": null,
+            "col2": "<span>10:00-11:30</span> <div>5</div> <dd class=\"\"rasp_aud_mobile\"\"></dd> <dt class=\"\"rasp_corp_mobile\"\"><i class=\"\"fa fa-map-marker\"\"></i><span></span></dt>",
+            "col3": "<dl> <dd></dd> <dt><i class=\"\"fa fa-map-marker\"\"></i><span></span></dt> </dl>",
+            "col4": "<dl> <dd>\u041e\u0441\u043d\u043e\u0432\u044b \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438(\u041b\u0435\u043a): ZOOM</dd><dt><b> \u041a\u043b\u0438\u043c\u0435\u043d\u043a\u043e\u0432 \u0421\u0435\u0440\u0433\u0435\u0439 \u0412\u0438\u043a\u0442\u043e\u0440\u043e\u0432\u0438\u0447 </b></dt> </dl>",
+            "col5": "\u0414\u0438\u0441\u0442\u0430\u043d\u0446\u0438\u043e\u043d\u043d\u044b\u0439"
+        },
+        {
+            "col1": null,
+            "col2": "<span>10:00-11:30</span> <div>2, 4, 6, 8, 10, 12, 14, 16</div> <dd class=\"\"rasp_aud_mobile\"\">2308 (\u0431\u044b\u0432\u0448. 306) \u0430\u0443\u0434.</dd> <dt class=\"\"rasp_corp_mobile\"\"><i class=\"\"fa fa-map-marker\"\"></i><span>\u041a\u0440\u043e\u043d\u0432\u0435\u0440\u043a\u0441\u043a\u0438\u0439 \u043f\u0440., \u0434.49, \u043b\u0438\u0442.\u0410</span></dt>",
+            "col3": "<dl> <dd>2308 (\u0431\u044b\u0432\u0448. 306) \u0430\u0443\u0434.</dd> <dt><i class=\"\"fa fa-map-marker\"\"></i><span>\u041a\u0440\u043e\u043d\u0432\u0435\u0440\u043a\u0441\u043a\u0438\u0439 \u043f\u0440., \u0434.49, \u043b\u0438\u0442.\u0410</span></dt> </dl>",
+            "col4": "<dl> <dd>\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0430(\u041b\u0430\u0431)</dd>\u0447\u0435\u0442\u043d\u0430\u044f \u043d\u0435\u0434\u0435\u043b\u044f<dt><b> \u041c\u0430\u0448\u0438\u043d\u0430 \u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u043d\u0430 </b></dt> </dl>",
+            "col5": "\u041e\u0447\u043d\u043e - \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0438\u043e\u043d\u043d\u044b\u0439"
+        },
+        {
+            "col1": null,
+            "col2": "<span>10:00-11:30</span> <div>3, 7, 9, 11, 13, 15, 17</div> <dd class=\"\"rasp_aud_mobile\"\"></dd> <dt class=\"\"rasp_corp_mobile\"\"><i class=\"\"fa fa-map-marker\"\"></i><span>\u0443\u043b.\u041b\u043e\u043c\u043e\u043d\u043e\u0441\u043e\u0432\u0430, \u0434.9, \u043b\u0438\u0442. \u041c</span></dt>",
+            "col3": "<dl> <dd></dd> <dt><i class=\"\"fa fa-map-marker\"\"></i><span>\u0443\u043b.\u041b\u043e\u043c\u043e\u043d\u043e\u0441\u043e\u0432\u0430, \u0434.9, \u043b\u0438\u0442. \u041c</span></dt> </dl>",
+            "col4": "<dl> <dd>\u041e\u0441\u043d\u043e\u0432\u044b \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438(\u041b\u0435\u043a): \u0410\u043a\u0442\u043e\u0432\u044b\u0439 \u0437\u0430\u043b</dd><dt><b> \u041a\u043b\u0438\u043c\u0435\u043d\u043a\u043e\u0432 \u0421\u0435\u0440\u0433\u0435\u0439 \u0412\u0438\u043a\u0442\u043e\u0440\u043e\u0432\u0438\u0447 </b></dt> </dl>",
+            "col5": "\u041e\u0447\u043d\u043e - \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0438\u043e\u043d\u043d\u044b\u0439"
+        },
+        {
+            "col1": null,
+            "col2": "<span>11:40-13:10</span> <div>3, 7, 9, 11, 13, 15, 17</div> <dd class=\"\"rasp_aud_mobile\"\">1223 \u0430\u0443\u0434.</dd> <dt class=\"\"rasp_corp_mobile\"\"><i class=\"\"fa fa-map-marker\"\"></i><span>\u0443\u043b.\u041b\u043e\u043c\u043e\u043d\u043e\u0441\u043e\u0432\u0430, \u0434.9, \u043b\u0438\u0442. \u041c</span></dt>",
+            "col3": "<dl> <dd>1223 \u0430\u0443\u0434.</dd> <dt><i class=\"\"fa fa-map-marker\"\"></i><span>\u0443\u043b.\u041b\u043e\u043c\u043e\u043d\u043e\u0441\u043e\u0432\u0430, \u0434.9, \u043b\u0438\u0442. \u041c</span></dt> </dl>",
+            "col4": "<dl> <dd>\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435(\u041b\u0435\u043a)</dd><dt><b> \u041f\u0438\u0441\u044c\u043c\u0430\u043a \u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447 </b></dt> </dl>",
+            "col5": "\u041e\u0447\u043d\u043e - \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0438\u043e\u043d\u043d\u044b\u0439"
+        },
+        {
+            "col1": null,
+            "col2": "<span>11:40-13:10</span> <div>2, 4, 6, 8, 10, 12, 14, 16</div> <dd class=\"\"rasp_aud_mobile\"\">2308 (\u0431\u044b\u0432\u0448. 306) \u0430\u0443\u0434.</dd> <dt class=\"\"rasp_corp_mobile\"\"><i class=\"\"fa fa-map-marker\"\"></i><span>\u041a\u0440\u043e\u043d\u0432\u0435\u0440\u043a\u0441\u043a\u0438\u0439 \u043f\u0440., \u0434.49, \u043b\u0438\u0442.\u0410</span></dt>",
+            "col3": "<dl> <dd>2308 (\u0431\u044b\u0432\u0448. 306) \u0430\u0443\u0434.</dd> <dt><i class=\"\"fa fa-map-marker\"\"></i><span>\u041a\u0440\u043e\u043d\u0432\u0435\u0440\u043a\u0441\u043a\u0438\u0439 \u043f\u0440., \u0434.49, \u043b\u0438\u0442.\u0410</span></dt> </dl>",
+            "col4": "<dl> <dd>\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435(\u041b\u0430\u0431)</dd>\u0447\u0435\u0442\u043d\u0430\u044f \u043d\u0435\u0434\u0435\u043b\u044f<dt><b> \u0427\u0430\u0433\u0438\u043d\u0430 \u0418\u043d\u043d\u0430 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043d\u0430 </b></dt> </dl>",
+            "col5": "\u041e\u0447\u043d\u043e - \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0438\u043e\u043d\u043d\u044b\u0439"
+        },
+        {
+            "col1": null,
+            "col2": "<span>11:40-13:10</span> <div>5</div> <dd class=\"\"rasp_aud_mobile\"\"></dd> <dt class=\"\"rasp_corp_mobile\"\"><i class=\"\"fa fa-map-marker\"\"></i><span></span></dt>",
+            "col3": "<dl> <dd></dd> <dt><i class=\"\"fa fa-map-marker\"\"></i><span></span></dt> </dl>",
+            "col4": "<dl> <dd>\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435(\u041b\u0435\u043a): ZOOM</dd><dt><b> \u041f\u0438\u0441\u044c\u043c\u0430\u043a \u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447 </b></dt> </dl>",
+            "col5": "\u0414\u0438\u0441\u0442\u0430\u043d\u0446\u0438\u043e\u043d\u043d\u044b\u0439"
+        },
+        {
+            "col1": null,
+            "col2": "<span>13:30-15:00</span> <div>2, 4, 6, 8, 10, 12, 14, 16</div> <dd class=\"\"rasp_aud_mobile\"\">2308 (\u0431\u044b\u0432\u0448. 306) \u0430\u0443\u0434.</dd> <dt class=\"\"rasp_corp_mobile\"\"><i class=\"\"fa fa-map-marker\"\"></i><span>\u041a\u0440\u043e\u043d\u0432\u0435\u0440\u043a\u0441\u043a\u0438\u0439 \u043f\u0440., \u0434.49, \u043b\u0438\u0442.\u0410</span></dt>",
+            "col3": "<dl> <dd>2308 (\u0431\u044b\u0432\u0448. 306) \u0430\u0443\u0434.</dd> <dt><i class=\"\"fa fa-map-marker\"\"></i><span>\u041a\u0440\u043e\u043d\u0432\u0435\u0440\u043a\u0441\u043a\u0438\u0439 \u043f\u0440., \u0434.49, \u043b\u0438\u0442.\u0410</span></dt> </dl>",
+            "col4": "<dl> <dd>\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435(\u041b\u0430\u0431)</dd>\u0447\u0435\u0442\u043d\u0430\u044f \u043d\u0435\u0434\u0435\u043b\u044f<dt><b> \u0427\u0430\u0433\u0438\u043d\u0430 \u0418\u043d\u043d\u0430 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043d\u0430 </b></dt> </dl>",
+            "col5": "\u041e\u0447\u043d\u043e - \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0438\u043e\u043d\u043d\u044b\u0439"
+		}]
+	}
+}

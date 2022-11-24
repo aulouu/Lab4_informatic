@@ -1,0 +1,75 @@
+<root><data>
+ <root>
+  <rows>
+   <col1>&lt;xxxxx&gt;Вт&lt;/xxxxx&gt;</col1>
+   <col2>&lt;span&gt;08:20-09:50&lt;/span&gt; &lt;div&gt;5&lt;/div&gt; &lt;dd class=&quot;&quot;rasp_aud_mobile&quot;&quot;&gt;&lt;/dd&gt; &lt;dt class=&quot;&quot;rasp_corp_mobile&quot;&quot;&gt;&lt;i class=&quot;&quot;fa fa-map-marker&quot;&quot;&gt;&lt;/i&gt;&lt;span&gt;&lt;/span&gt;&lt;/dt&gt;</col2>
+   <col3>&lt;dl&gt; &lt;dd&gt;&lt;/dd&gt; &lt;dt&gt;&lt;i class=&quot;&quot;fa fa-map-marker&quot;&quot;&gt;&lt;/i&gt;&lt;span&gt;&lt;/span&gt;&lt;/dt&gt; &lt;/dl&gt;</col3>
+   <col4>&lt;dl&gt; &lt;dd&gt;Информатика(Лек): ZOOM&lt;/dd&gt;&lt;dt&gt;&lt;b&gt; Балакшин Павел Валерьевич &lt;/b&gt;&lt;/dt&gt; &lt;/dl&gt;</col4>
+   <col5>Дистанционный</col5>
+ </rows>
+ <rows>
+   <col1></col1>
+   <col2>&lt;span&gt;08:20-09:50&lt;/span&gt; &lt;div&gt;2, 4, 6, 8, 10, 12, 14, 16&lt;/div&gt; &lt;dd class=&quot;&quot;rasp_aud_mobile&quot;&quot;&gt;2308 (бывш. 306) ауд.&lt;/dd&gt; &lt;dt class=&quot;&quot;rasp_corp_mobile&quot;&quot;&gt;&lt;i class=&quot;&quot;fa fa-map-marker&quot;&quot;&gt;&lt;/i&gt;&lt;span&gt;Кронверкский пр., д.49, лит.А&lt;/span&gt;&lt;/dt&gt;</col2>
+   <col3>&lt;dl&gt; &lt;dd&gt;2308 (бывш. 306) ауд.&lt;/dd&gt; &lt;dt&gt;&lt;i class=&quot;&quot;fa fa-map-marker&quot;&quot;&gt;&lt;/i&gt;&lt;span&gt;Кронверкский пр., д.49, лит.А&lt;/span&gt;&lt;/dt&gt; &lt;/dl&gt;</col3>
+   <col4>&lt;dl&gt; &lt;dd&gt;Информатика(Лаб)&lt;/dd&gt;четная неделя&lt;dt&gt;&lt;b&gt; Машина Екатерина Алексеевна &lt;/b&gt;&lt;/dt&gt; &lt;/dl&gt;</col4>
+   <col5>Очно - дистанционный</col5>
+ </rows>
+ <rows>
+   <col1></col1>
+   <col2>&lt;span&gt;08:20-09:50&lt;/span&gt; &lt;div&gt;3, 7, 9, 11, 13, 15, 17&lt;/div&gt; &lt;dd class=&quot;&quot;rasp_aud_mobile&quot;&quot;&gt;&lt;/dd&gt; &lt;dt class=&quot;&quot;rasp_corp_mobile&quot;&quot;&gt;&lt;i class=&quot;&quot;fa fa-map-marker&quot;&quot;&gt;&lt;/i&gt;&lt;span&gt;ул.Ломоносова, д.9, лит. М&lt;/span&gt;&lt;/dt&gt;</col2>
+   <col3>&lt;dl&gt; &lt;dd&gt;&lt;/dd&gt; &lt;dt&gt;&lt;i class=&quot;&quot;fa fa-map-marker&quot;&quot;&gt;&lt;/i&gt;&lt;span&gt;ул.Ломоносова, д.9, лит. М&lt;/span&gt;&lt;/dt&gt; &lt;/dl&gt;</col3>
+   <col4>&lt;dl&gt; &lt;dd&gt;Информатика(Лек): Актовый зал&lt;/dd&gt;&lt;dt&gt;&lt;b&gt; Балакшин Павел Валерьевич &lt;/b&gt;&lt;/dt&gt; &lt;/dl&gt;</col4>
+   <col5>Очно - дистанционный</col5>
+ </rows>
+ <rows>
+   <col1></col1>
+   <col2>&lt;span&gt;10:00-11:30&lt;/span&gt; &lt;div&gt;5&lt;/div&gt; &lt;dd class=&quot;&quot;rasp_aud_mobile&quot;&quot;&gt;&lt;/dd&gt; &lt;dt class=&quot;&quot;rasp_corp_mobile&quot;&quot;&gt;&lt;i class=&quot;&quot;fa fa-map-marker&quot;&quot;&gt;&lt;/i&gt;&lt;span&gt;&lt;/span&gt;&lt;/dt&gt;</col2>
+   <col3>&lt;dl&gt; &lt;dd&gt;&lt;/dd&gt; &lt;dt&gt;&lt;i class=&quot;&quot;fa fa-map-marker&quot;&quot;&gt;&lt;/i&gt;&lt;span&gt;&lt;/span&gt;&lt;/dt&gt; &lt;/dl&gt;</col3>
+   <col4>&lt;dl&gt; &lt;dd&gt;Основы профессиональной деятельности(Лек): ZOOM&lt;/dd&gt;&lt;dt&gt;&lt;b&gt; Клименков Сергей Викторович &lt;/b&gt;&lt;/dt&gt; &lt;/dl&gt;</col4>
+   <col5>Дистанционный</col5>
+ </rows>
+ <rows>
+   <col1></col1>
+   <col2>&lt;span&gt;10:00-11:30&lt;/span&gt; &lt;div&gt;2, 4, 6, 8, 10, 12, 14, 16&lt;/div&gt; &lt;dd class=&quot;&quot;rasp_aud_mobile&quot;&quot;&gt;2308 (бывш. 306) ауд.&lt;/dd&gt; &lt;dt class=&quot;&quot;rasp_corp_mobile&quot;&quot;&gt;&lt;i class=&quot;&quot;fa fa-map-marker&quot;&quot;&gt;&lt;/i&gt;&lt;span&gt;Кронверкский пр., д.49, лит.А&lt;/span&gt;&lt;/dt&gt;</col2>
+   <col3>&lt;dl&gt; &lt;dd&gt;2308 (бывш. 306) ауд.&lt;/dd&gt; &lt;dt&gt;&lt;i class=&quot;&quot;fa fa-map-marker&quot;&quot;&gt;&lt;/i&gt;&lt;span&gt;Кронверкский пр., д.49, лит.А&lt;/span&gt;&lt;/dt&gt; &lt;/dl&gt;</col3>
+   <col4>&lt;dl&gt; &lt;dd&gt;Информатика(Лаб)&lt;/dd&gt;четная неделя&lt;dt&gt;&lt;b&gt; Машина Екатерина Алексеевна &lt;/b&gt;&lt;/dt&gt; &lt;/dl&gt;</col4>
+   <col5>Очно - дистанционный</col5>
+ </rows>
+ <rows>
+   <col1></col1>
+   <col2>&lt;span&gt;10:00-11:30&lt;/span&gt; &lt;div&gt;3, 7, 9, 11, 13, 15, 17&lt;/div&gt; &lt;dd class=&quot;&quot;rasp_aud_mobile&quot;&quot;&gt;&lt;/dd&gt; &lt;dt class=&quot;&quot;rasp_corp_mobile&quot;&quot;&gt;&lt;i class=&quot;&quot;fa fa-map-marker&quot;&quot;&gt;&lt;/i&gt;&lt;span&gt;ул.Ломоносова, д.9, лит. М&lt;/span&gt;&lt;/dt&gt;</col2>
+   <col3>&lt;dl&gt; &lt;dd&gt;&lt;/dd&gt; &lt;dt&gt;&lt;i class=&quot;&quot;fa fa-map-marker&quot;&quot;&gt;&lt;/i&gt;&lt;span&gt;ул.Ломоносова, д.9, лит. М&lt;/span&gt;&lt;/dt&gt; &lt;/dl&gt;</col3>
+   <col4>&lt;dl&gt; &lt;dd&gt;Основы профессиональной деятельности(Лек): Актовый зал&lt;/dd&gt;&lt;dt&gt;&lt;b&gt; Клименков Сергей Викторович &lt;/b&gt;&lt;/dt&gt; &lt;/dl&gt;</col4>
+   <col5>Очно - дистанционный</col5>
+ </rows>
+ <rows>
+   <col1></col1>
+   <col2>&lt;span&gt;11:40-13:10&lt;/span&gt; &lt;div&gt;3, 7, 9, 11, 13, 15, 17&lt;/div&gt; &lt;dd class=&quot;&quot;rasp_aud_mobile&quot;&quot;&gt;1223 ауд.&lt;/dd&gt; &lt;dt class=&quot;&quot;rasp_corp_mobile&quot;&quot;&gt;&lt;i class=&quot;&quot;fa fa-map-marker&quot;&quot;&gt;&lt;/i&gt;&lt;span&gt;ул.Ломоносова, д.9, лит. М&lt;/span&gt;&lt;/dt&gt;</col2>
+   <col3>&lt;dl&gt; &lt;dd&gt;1223 ауд.&lt;/dd&gt; &lt;dt&gt;&lt;i class=&quot;&quot;fa fa-map-marker&quot;&quot;&gt;&lt;/i&gt;&lt;span&gt;ул.Ломоносова, д.9, лит. М&lt;/span&gt;&lt;/dt&gt; &lt;/dl&gt;</col3>
+   <col4>&lt;dl&gt; &lt;dd&gt;Программирование(Лек)&lt;/dd&gt;&lt;dt&gt;&lt;b&gt; Письмак Алексей Евгеньевич &lt;/b&gt;&lt;/dt&gt; &lt;/dl&gt;</col4>
+   <col5>Очно - дистанционный</col5>
+ </rows>
+ <rows>
+   <col1></col1>
+   <col2>&lt;span&gt;11:40-13:10&lt;/span&gt; &lt;div&gt;2, 4, 6, 8, 10, 12, 14, 16&lt;/div&gt; &lt;dd class=&quot;&quot;rasp_aud_mobile&quot;&quot;&gt;2308 (бывш. 306) ауд.&lt;/dd&gt; &lt;dt class=&quot;&quot;rasp_corp_mobile&quot;&quot;&gt;&lt;i class=&quot;&quot;fa fa-map-marker&quot;&quot;&gt;&lt;/i&gt;&lt;span&gt;Кронверкский пр., д.49, лит.А&lt;/span&gt;&lt;/dt&gt;</col2>
+   <col3>&lt;dl&gt; &lt;dd&gt;2308 (бывш. 306) ауд.&lt;/dd&gt; &lt;dt&gt;&lt;i class=&quot;&quot;fa fa-map-marker&quot;&quot;&gt;&lt;/i&gt;&lt;span&gt;Кронверкский пр., д.49, лит.А&lt;/span&gt;&lt;/dt&gt; &lt;/dl&gt;</col3>
+   <col4>&lt;dl&gt; &lt;dd&gt;Программирование(Лаб)&lt;/dd&gt;четная неделя&lt;dt&gt;&lt;b&gt; Чагина Инна Николаевна &lt;/b&gt;&lt;/dt&gt; &lt;/dl&gt;</col4>
+   <col5>Очно - дистанционный</col5>
+ </rows>
+ <rows>
+   <col1></col1>
+   <col2>&lt;span&gt;11:40-13:10&lt;/span&gt; &lt;div&gt;5&lt;/div&gt; &lt;dd class=&quot;&quot;rasp_aud_mobile&quot;&quot;&gt;&lt;/dd&gt; &lt;dt class=&quot;&quot;rasp_corp_mobile&quot;&quot;&gt;&lt;i class=&quot;&quot;fa fa-map-marker&quot;&quot;&gt;&lt;/i&gt;&lt;span&gt;&lt;/span&gt;&lt;/dt&gt;</col2>
+   <col3>&lt;dl&gt; &lt;dd&gt;&lt;/dd&gt; &lt;dt&gt;&lt;i class=&quot;&quot;fa fa-map-marker&quot;&quot;&gt;&lt;/i&gt;&lt;span&gt;&lt;/span&gt;&lt;/dt&gt; &lt;/dl&gt;</col3>
+   <col4>&lt;dl&gt; &lt;dd&gt;Программирование(Лек): ZOOM&lt;/dd&gt;&lt;dt&gt;&lt;b&gt; Письмак Алексей Евгеньевич &lt;/b&gt;&lt;/dt&gt; &lt;/dl&gt;</col4>
+   <col5>Дистанционный</col5>
+ </rows>
+ <rows>
+   <col1></col1>
+   <col2>&lt;span&gt;13:30-15:00&lt;/span&gt; &lt;div&gt;2, 4, 6, 8, 10, 12, 14, 16&lt;/div&gt; &lt;dd class=&quot;&quot;rasp_aud_mobile&quot;&quot;&gt;2308 (бывш. 306) ауд.&lt;/dd&gt; &lt;dt class=&quot;&quot;rasp_corp_mobile&quot;&quot;&gt;&lt;i class=&quot;&quot;fa fa-map-marker&quot;&quot;&gt;&lt;/i&gt;&lt;span&gt;Кронверкский пр., д.49, лит.А&lt;/span&gt;&lt;/dt&gt;</col2>
+   <col3>&lt;dl&gt; &lt;dd&gt;2308 (бывш. 306) ауд.&lt;/dd&gt; &lt;dt&gt;&lt;i class=&quot;&quot;fa fa-map-marker&quot;&quot;&gt;&lt;/i&gt;&lt;span&gt;Кронверкский пр., д.49, лит.А&lt;/span&gt;&lt;/dt&gt; &lt;/dl&gt;</col3>
+   <col4>&lt;dl&gt; &lt;dd&gt;Программирование(Лаб)&lt;/dd&gt;четная неделя&lt;dt&gt;&lt;b&gt; Чагина Инна Николаевна &lt;/b&gt;&lt;/dt&gt; &lt;/dl&gt;</col4>
+   <col5>Очно - дистанционный</col5>
+   </rows>
+  </root>
+</data>
+</root>
